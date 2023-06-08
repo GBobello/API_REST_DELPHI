@@ -32,7 +32,6 @@
 # Delphi history and backups
 __history/
 __recovery/
-bin/
 dcu/
 *.~*
 
